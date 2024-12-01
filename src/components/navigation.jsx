@@ -26,7 +26,7 @@ export const Navigation = (props) => {
   <img
     src="img/icon.jpg"
     alt="Logo"
-    style={{ width: "75px", height: "75px", borderRadius: "50%" }}
+    style={{ width: "65px", height: "65px", borderRadius: "50%" }}
   />
 </a>
 

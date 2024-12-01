@@ -35,21 +35,7 @@
       "largeImage": "img/service/3.jpg",
       "smallImage": "img/service/3.jpg"
     },
-    {
-      "title": "Book Publication",
-      "largeImage": "img/service/4.jpg",
-      "smallImage": "img/service/4.jpg"
-    },
-    {
-      "title": "Writing Services",
-      "largeImage": "img/service/5.jpg",
-      "smallImage": "img/service/5.jpg"
-    },
-    {
-      "title": "Academic Projects",
-      "largeImage": "img/service/6.jpg",
-      "smallImage": "img/service/6.jpg"
-    },
+ 
     {
       "title": "Trust Us",
       "largeImage": "img/service/7.jpg",
@@ -187,3 +173,5 @@
 ]
 
 }
+
+

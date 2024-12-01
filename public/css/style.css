@@ -208,12 +208,14 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
+  /* background-image: url(../img/intro-bg.webp); */
   background: url(../img/intro-bg.webp) center center no-repeat;
-  background-color: #e5e5e5;
+  /* background-color: #f23535; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  overflow:hidden ;
 }
 .intro .overlay {
   background: rgba(0, 0, 0, 0.2);
@@ -221,7 +223,7 @@ a:focus,
 .intro h1 {
   font-family: "Raleway", sans-serif;
   color: #fff;
-  font-size: 82px;
+  font-size: 72px;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
@@ -603,4 +605,6 @@ label {
   #about img {
     margin: 50px 0;
   }
+ 
+ 
 }

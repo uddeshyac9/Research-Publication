@@ -3,6 +3,7 @@
     padding: 20px;
     width: 111%;
   }
+  #header,
   #about,
   #services,
   #testimonials,
@@ -11,7 +12,7 @@
   #footer {
     width: 111%;
   }
-
+ 
   #portfolio {
     width: 110%;
   }

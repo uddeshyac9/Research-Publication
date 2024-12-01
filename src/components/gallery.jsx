@@ -23,6 +23,7 @@ export const Gallery = (props) => {
                       title={d.title}
                       largeImage={d.largeImage}
                       smallImage={d.smallImage}
+                      
                     />
                   </div>
                 ))
@@ -33,3 +34,23 @@ export const Gallery = (props) => {
     </div>
   );
 };
+
+
+
+// Gallery Photos Data
+
+  //  {
+  //     "title": "Book Publication",
+  //     "largeImage": "img/service/4.jpg",
+  //     "smallImage": "img/service/4.jpg"
+  //   },
+  //   {
+  //     "title": "Writing Services",
+  //     "largeImage": "img/service/5.jpg",
+  //     "smallImage": "img/service/5.jpg"
+  //   },
+  //   {
+  //     "title": "Academic Projects",
+  //     "largeImage": "img/service/6.jpg",
+  //     "smallImage": "img/service/6.jpg"
+  //   },
