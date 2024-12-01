@@ -1,0 +1,189 @@
+{
+  "Header": {
+    "title": "Reserch Publication",
+    "paragraph": "Welcome to Research Publication, your trusted partner in advancing academic research. We are committed to ensuring that your work receives the recognition it deserves by publishing in prestigious databases."
+  },
+"About": {
+    "paragraph": "Welcome to Research Publication, your trusted partner in advancing academic research. We are committed to ensuring that your work receives the recognition it deserves by publishing in prestigious databases.",
+    "Why": [
+        "Global recognition for your research work",
+        "Seamless and stress-free publishing process",
+        "Expert guidance from submission to publication",
+        "Impactful results with meaningful research visibility"
+    ],
+    "Why2": [
+        "Trusted partner in academic publishing",
+        "Ensuring research accessibility to global audiences",
+        "Commitment to ethics and professionalism",
+        "Support for career growth in academy"
+    ]
+},
+
+  "Gallery": [
+    {
+      "title": "PhD Guidance",
+      "largeImage": "img/service/1.jpg",
+      "smallImage": "img/service/1.jpg"
+    },
+    {
+      "title": "Research Paper Publication",
+      "largeImage": "img/service/2.jpg",
+      "smallImage": "img/service/2.jpg"
+    },
+    {
+      "title": "Patent Registration",
+      "largeImage": "img/service/3.jpg",
+      "smallImage": "img/service/3.jpg"
+    },
+    {
+      "title": "Book Publication",
+      "largeImage": "img/service/4.jpg",
+      "smallImage": "img/service/4.jpg"
+    },
+    {
+      "title": "Writing Services",
+      "largeImage": "img/service/5.jpg",
+      "smallImage": "img/service/5.jpg"
+    },
+    {
+      "title": "Academic Projects",
+      "largeImage": "img/service/6.jpg",
+      "smallImage": "img/service/6.jpg"
+    },
+    {
+      "title": "Trust Us",
+      "largeImage": "img/service/7.jpg",
+      "smallImage": "img/service/7.jpg"
+    },
+    {
+      "title": "Reserch Publication",
+      "largeImage": "img/service/9.jpg",
+      "smallImage": "img/service/9.jpg"
+    },
+    {
+      "title": "All Services",
+      "largeImage": "img/service/8.jpg",
+      "smallImage": "img/service/8.jpg"
+    }
+  ],
+ "Services": [
+    {
+        "icon": "fa fa-graduation-cap",
+        "name": "PhD Guidance",
+        "text": "Receive expert support and comprehensive guidance throughout your PhD journey. From research development to thesis writing, we provide the tools and expertise to help you succeed."
+    },
+    {
+        "icon": "fa fa-plane",
+        "name": "Research Paper Publication",
+        "text": "Publish your research in high-impact, top-rated international journals. We specialize in getting your paper featured in prestigious platforms to ensure maximum visibility and credibility."
+    },
+    {
+        "icon": "fa fa-certificate",
+        "name": "Patent Registration",
+        "text": "Elevate your academic career by securing patents or copyrights for your inventions and innovations. Protect your intellectual property while boosting your Academic Performance Indicator (API) and professional recognition."
+    },
+    {
+        "icon": "fa fa-book",
+        "name": "Book Publication",
+        "text": "Publish your book to enhance your academic career and shine in your field. Our services include end-to-end support, from manuscript preparation to publishing, ensuring your book reaches the right audience."
+    },
+    {
+        "icon": "fa fa-language",
+        "name": "Writing Services",
+        "text": "We provide expert writing guidance to help you express your ideas clearly and effectively. Whether it’s research papers, articles, or book manuscripts, we help you turn your ideas into well-crafted, impactful documents."
+    },
+    {
+        "icon": "fa fa-pie-chart",
+        "name": "Academic Projects",
+        "text": "Project guidance for M.Tech, all Postgraduate (Commerce, Science, and Arts), and Graduate students."
+    }
+],
+
+ "Testimonials": [
+    {
+        "img": "img/testimonials/01.jpg",
+        "text": "\"Research Publication House provided me with invaluable support during my publication process. Their team was professional, responsive, and guided me every step of the way.\"",
+        "name": "Dr. Michael Johnson"
+    },
+    {
+        "img": "img/testimonials/02.jpg",
+        "text": "\"Thanks to Research Publication House, my research was published in a high-impact journal, gaining the visibility and recognition it deserved. I highly recommend their services.\"",
+        "name": "Dr. David"
+    },
+    {
+        "img": "img/testimonials/03.jpg",
+        "text": "\"The seamless process and expert guidance from their team made publishing my paper stress-free and efficient. I appreciate their commitment to quality.\"",
+        "name": "Dr. Smith"
+    },
+    {
+        "img": "img/testimonials/04.jpg",
+        "text": "\"I was impressed by the professionalism and personalized attention I received. Their dedication ensured that my work reached the right audience.\"",
+        "name": "Dr. Aditi Sharma"
+    },
+    {
+        "img": "img/testimonials/05.jpg",
+        "text": "\"With the help of Research Publication House, my patent application was completed flawlessly. Their expertise and attention to detail were outstanding.\"",
+        "name": "Dr. Anil Mehta"
+    },
+    {
+        "img": "img/testimonials/06.jpg",
+        "text": "\"The team at Research Publication House not only helped publish my book but also ensured it reached the right academic audience. Highly recommended!\"",
+        "name": "Dr. Sarah Patel"
+    }
+],
+  "Team": [
+    {
+      "img": "img/service/1.jpg",
+      "name": "PhD Assistance & Guidance",
+      "job": "Receive expert support and comprehensive guidance throughout your PhD journey."
+    },
+    {
+      "img": "img/service/5.jpg",
+      "name": "Research Paper Publication",
+      "job": "Publish Your Paper In High Impact Top Rated International Journal."
+    },
+    {
+      "img": "img/service/3.jpg",
+      "name": "Patent Registration",
+      "job": "Elevate your academic career by securing patents or copyrights for your inventions and innovations."
+    },
+    {
+      "img": "img/service/6.jpg",
+      "name": "Publication Writing Books",
+      "job": "We provide expert writing Guidance to help you express your ideas clearly and effectively."
+    }
+  
+   
+  ],
+  "Contact": {
+    "address": "Delhi Saharanpur Road, UP,  247001 ",
+    "phone": "+91 7906767266",
+    "email": "rpublication888@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+"Features": [
+    {
+        "icon": "fa fa-globe",
+        "title": "Global Recognition",
+        "text": "Publishing with us means your work will be featured in top-tier databases, enhancing its visibility, credibility, and global reach."
+    },
+    {
+        "icon": "fa fa-cogs",
+        "title": "Seamless Publishing Process",
+        "text": "We streamline the publishing journey, making it simple and stress-free, so you can focus on what matters most—your research."
+    },
+    {
+        "icon": "fa fa-users",
+        "title": "Expert Support",
+        "text": "Our dedicated team is with you every step of the way, offering personalized guidance from submission through to publication."
+    },
+    {
+        "icon": "fa fa-lightbulb-o",
+        "title": "Meaningful Impact",
+        "text": "Your research has the potential to shape the future. By publishing with us, your findings reach the audience who can benefit most and drive change in your field."
+    }
+]
+
+}
