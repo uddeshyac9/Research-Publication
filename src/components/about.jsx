@@ -13,7 +13,7 @@ export const About = (props) => {
   target="_blank"
   rel="noopener noreferrer"
 >
-<img src="img/service/7.jpg" className="img-responsive" alt="" />{" "}
+<img src="img/service/12.jpg" className="img-responsive" alt="" />{" "}
 </a>
            
           </div>

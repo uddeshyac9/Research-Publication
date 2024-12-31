@@ -20,37 +20,24 @@
 },
 
   "Gallery": [
-    {
-      "title": "PhD Guidance",
-      "largeImage": "img/service/1.jpg",
-      "smallImage": "img/service/1.jpg"
-    },
-    {
-      "title": "Research Paper Publication",
-      "largeImage": "img/service/2.jpg",
-      "smallImage": "img/service/2.jpg"
-    },
-    {
-      "title": "Patent Registration",
-      "largeImage": "img/service/3.jpg",
-      "smallImage": "img/service/3.jpg"
-    },
  
     {
-      "title": "Trust Us",
-      "largeImage": "img/service/7.jpg",
-      "smallImage": "img/service/7.jpg"
+      "title": "Research Publication",
+      "largeImage": "img/service/11.jpg",
+      "smallImage": "img/service/11.jpg"
     },
     {
-      "title": "Reserch Publication",
-      "largeImage": "img/service/9.jpg",
-      "smallImage": "img/service/9.jpg"
+      "title": "Research Publication",
+      "largeImage": "img/service/rpvedio.mp4",
+      "smallImage": "img/service/rpvedio.mp4"
     },
     {
-      "title": "All Services",
-      "largeImage": "img/service/8.jpg",
-      "smallImage": "img/service/8.jpg"
+      "title": "Research Publication",
+      "largeImage": "img/service/12.jpg",
+      "smallImage": "img/service/12.jpg"
     }
+ 
+
   ],
  "Services": [
     {
@@ -142,7 +129,7 @@
    
   ],
   "Contact": {
-    "address": "Delhi Saharanpur Road, UP,  247001 ",
+    "address": " ",
     "phone": "+91 7906767266",
     "email": "rpublication888@gmail.com",
     "facebook": "fb.com",

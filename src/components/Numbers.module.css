@@ -1,0 +1,123 @@
+/* Numbers.module.css */
+
+.numbers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+  width: 100%;
+  padding: 5%;
+  position: relative;
+  box-sizing: border-box;
+}
+
+.numbers::after,
+.numbers::before {
+  content: "";
+  position: absolute;
+  top: 5%;
+  width: 10px;
+  height: 90%;
+  background-color: #FFA500; /* Replaced var(--themeOrange) */
+  border-radius: 5px;
+}
+
+.numbers::after {
+  right: 0;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.numbers::before {
+  left: 0;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.numbersBox {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 2px solid #FFA500; /* Replaced var(--themeOrange) */
+  border-radius: 30px;
+  padding: 5%;
+  width: 100%;
+  max-width: 1200px; /* Optional: limit max width for larger screens */
+  box-sizing: border-box;
+  background-color: #fff; /* Optional: background color for better visibility */
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+}
+
+.Number {
+  flex: 1 1 200px; /* Flex-grow, flex-shrink, flex-basis */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  gap: 10px;
+  box-sizing: border-box;
+  transition: transform 0.3s, padding 0.3s;
+}
+
+.Number:hover {
+  transform: scale(1.05);
+  padding: 20px 30px;
+}
+
+.Number h1 {
+  font-size: 2.5rem;
+  margin: 0;
+  color: #FFA500; /* Optional: color for numbers */
+}
+
+.Number span {
+  font-size: 2rem;
+  color: #333; /* Optional: color for text */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .numbersBox {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .Number {
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+
+  .Number:last-child {
+    margin-bottom: 0;
+  }
+
+  .Number h1 {
+    font-size: 2rem;
+  }
+
+  .Number span {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .Number h1 {
+    font-size: 1.5rem;
+  }
+
+  .Number span {
+    font-size: 1.5rem;
+  }
+
+  .numbers {
+    padding: 10px;
+    width: '110%';
+  }
+
+  .numbersBox {
+    padding: 15px;
+  }
+}
+
