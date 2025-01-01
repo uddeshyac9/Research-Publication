@@ -1,0 +1,37 @@
+/* src/components/WhatsAppButton.module.css */
+
+.whatsappButton {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366; /* WhatsApp Green */
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .whatsappButton:hover {
+    transform: scale(1.1);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  }
+  
+  @media (max-width: 768px) {
+    .whatsappButton {
+      width: 50px;
+      height: 50px;
+      bottom: 30px;
+      right: 30px;
+    }
+  
+    .whatsappButton:hover {
+      transform: scale(1.05);
+    }
+  }
+  

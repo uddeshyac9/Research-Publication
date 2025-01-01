@@ -33,41 +33,70 @@ const Numbers = () => {
       <div className={styles.numbersBox}>
         <div className={styles.Number}>
           <h1>
-            {inView && <CountUp start={0} end={500000} duration={7} />}
+            {inView && <CountUp start={0} end={100} duration={7} />}
             +
           </h1>
-          <span>Full Text Theses</span>
+          <span> Theses Writing </span>
         </div>
 
         <div className={styles.Number}>
           <h1>
             {inView && (
-              <CountUp start={0} end={20000} duration={8} separator="," />
+              <CountUp start={0} end={1000} duration={8} separator="," />
             )}
             +
           </h1>
-          <span>Synopses/Fellowships</span>
+          <span>Research Paper Writing</span>
         </div>
 
         <div className={styles.Number}>
           <h1>
             {inView && (
-              <CountUp start={0} end={1000} duration={9} separator="," />
+              <CountUp start={0} end={800} duration={9} separator="," />
             )}
             +
           </h1>
-          <span>Universities Contribution</span>
+          <span>Book Writing</span>
         </div>
         <div className={styles.Number}>
           <h1>
             {inView && (
-              <CountUp start={0} end={1000} duration={10} separator="," />
+              <CountUp start={0} end={500} duration={9.5} separator="," />
             )}
             +
           </h1>
-          <span>Universities+CFTIs</span>
+          <span>Synopses Writing</span>
         </div>
+        <div className={styles.Number}>
+          <h1>
+            {inView && (
+              <CountUp start={0} end={2000} duration={10} separator="," />
+            )}
+            +
+          </h1>
+          <span>Plagiarism</span>
+        </div>
+        <div className={styles.Number}>
+          <h1>
+            {inView && (
+              <CountUp start={0} end={1000} duration={10.5} separator="," />
+            )}
+            +
+          </h1>
+          <span>Patent</span>
+        </div>
+        <div className={styles.Number}>
+          <h1>
+            {inView && (
+              <CountUp start={0} end={1000} duration={11} separator="," />
+            )}
+            +
+          </h1>
+          <span>PPT/Disertation </span>
+        </div>
+     
       </div>
+      
     </section>
   );
 };

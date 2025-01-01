@@ -28,10 +28,11 @@ export const Gallery = (props) => {
                     className="col-sm-6 col-md-4 col-lg-4"
                   >
                     {isVideo(d.largeImage) ? (
-                      <video controls width="100%" autoPlay>
-                        <source src={d.largeImage} type="video/mp4"  />
-                        Your browser does not support the video tag.
-                      </video>
+                    <video controls width="100%" autoPlay muted>
+                    <source src={d.largeImage} type="video/mp4" />
+                    Your browser does not support the video tag.
+                  </video>
+                  
                     ) : (
                       <img
                         src={d.largeImage}
