@@ -8,7 +8,7 @@ export const Header = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
-                <h2 style={{color:'#f23535',  }}>
+                <h2 style={{color:'#FFA500',  }}>
                   {props.data ? props.data.title : "Loading"}
                   <span></span>
                 </h2>

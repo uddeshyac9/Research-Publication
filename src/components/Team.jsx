@@ -7,7 +7,7 @@ export const Team = (props) => {
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Our Services</h2>
           <p>
-          At Research Publication, we offer a comprehensive range of services designed to support researchers, academics, and scholars at every stage of their academic journey. Whether you are looking to publish a research paper, register a patent, or publish a book, we are here to help you achieve your academic and professional goals.
+          At Shiksha Salah, we offer a comprehensive range of services designed to support researchers, academics, and scholars at every stage of their academic journey. Whether you are looking to publish a research paper, register a patent, or publish a book, we are here to help you achieve your academic and professional goals.
           
           </p>
         </div>

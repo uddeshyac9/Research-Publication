@@ -153,9 +153,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
         <p>
-  &copy; 2024 Research Publication House. Designed and developed by{" "}
+  &copy; 2024 Shiksha Salah House. Designed and developed by{" "}
   <a href="#" rel="nofollow">
-    Research Publication House Team
+    Shiksha Salah House Team
   </a>
 </p>
 

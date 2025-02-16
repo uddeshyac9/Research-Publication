@@ -16,7 +16,7 @@ export const Gallery = (props) => {
             Explore moments of academic excellence, innovation, and collaboration
             captured through our journey. From successful publications to
             impactful events, our gallery showcases the milestones that define
-            Research Publication House.
+            Shiksha Salah House.
           </p>
         </div>
         <div className="row">

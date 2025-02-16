@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "Reserch Publication",
-    "paragraph": "Welcome to Research Publication, your trusted partner in advancing academic research. We are committed to ensuring that your work receives the recognition it deserves by publishing in prestigious databases."
+    "title": "Shiksha Salah",
+    "paragraph": "Welcome to Shiksha Salah, your trusted partner in advancing academic research. We are committed to ensuring that your work receives the recognition it deserves by publishing in prestigious databases."
   },
 "About": {
-    "paragraph": "Welcome to Research Publication, your trusted partner in advancing academic research. We are committed to ensuring that your work receives the recognition it deserves by publishing in prestigious databases.",
+    "paragraph": "Welcome to Shiksha Salah, your trusted partner in advancing academic research. We are committed to ensuring that your work receives the recognition it deserves by publishing in prestigious databases.",
     "Why": [
         "Global recognition for your research work",
         "Seamless and stress-free publishing process",
@@ -22,17 +22,17 @@
   "Gallery": [
  
     {
-      "title": "Research Publication",
+      "title": "Shiksha Salah",
       "largeImage": "img/service/11.jpg",
       "smallImage": "img/service/11.jpg"
     },
     {
-      "title": "Research Publication",
+      "title": "Shiksha Salah",
       "largeImage": "img/service/rpvedio.mp4",
       "smallImage": "img/service/rpvedio.mp4"
     },
     {
-      "title": "Research Publication",
+      "title": "Shiksha Salah",
       "largeImage": "img/service/12.jpg",
       "smallImage": "img/service/12.jpg"
     }
@@ -75,12 +75,12 @@
  "Testimonials": [
     {
         "img": "img/testimonials/01.jpg",
-        "text": "\"Research Publication House provided me with invaluable support during my publication process. Their team was professional, responsive, and guided me every step of the way.\"",
+        "text": "\"Shiksha Salah House provided me with invaluable support during my publication process. Their team was professional, responsive, and guided me every step of the way.\"",
         "name": "Dr. Michael Johnson"
     },
     {
         "img": "img/testimonials/02.jpg",
-        "text": "\"Thanks to Research Publication House, my research was published in a high-impact journal, gaining the visibility and recognition it deserved. I highly recommend their services.\"",
+        "text": "\"Thanks to Shiksha Salah House, my research was published in a high-impact journal, gaining the visibility and recognition it deserved. I highly recommend their services.\"",
         "name": "Dr. David"
     },
     {
@@ -95,12 +95,12 @@
     },
     {
         "img": "img/testimonials/05.jpg",
-        "text": "\"With the help of Research Publication House, my patent application was completed flawlessly. Their expertise and attention to detail were outstanding.\"",
+        "text": "\"With the help of Shiksha Salah House, my patent application was completed flawlessly. Their expertise and attention to detail were outstanding.\"",
         "name": "Dr. Anil Mehta"
     },
     {
         "img": "img/testimonials/06.jpg",
-        "text": "\"The team at Research Publication House not only helped publish my book but also ensured it reached the right academic audience. Highly recommended!\"",
+        "text": "\"The team at Shiksha Salah House not only helped publish my book but also ensured it reached the right academic audience. Highly recommended!\"",
         "name": "Dr. Sarah Patel"
     }
 ],

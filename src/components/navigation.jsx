@@ -20,11 +20,11 @@ export const Navigation = (props) => {
           
           {/* <a className="navbar-brand page-scroll" href="#">
       
-        Research Publication
+        Shiksha Salah
       </a>{" "} */}
      <a href="#">
   <img
-    src="img/icon.jpg"
+    src="img/sslogo.jpg"
     alt="Logo"
     style={{ width: "65px", height: "65px", borderRadius: "50%" }}
   />
