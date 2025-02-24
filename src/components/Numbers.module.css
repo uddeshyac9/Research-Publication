@@ -94,21 +94,21 @@
   }
 
   .Number h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 
   .Number span {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 }
 
 @media (max-width: 480px) {
   .Number h1 {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
   }
 
   .Number span {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
 
   .numbers {
