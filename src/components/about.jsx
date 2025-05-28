@@ -1,51 +1,43 @@
-import React from "react";
+import BookImage from "../assets/bookImage.jpg"
 
-export const About = (props) => {
+const About = () => {
   return (
-    <div id="about">
-      <div className="container">
-        <div className="row">
-          <div className="col-xs-12 col-md-6">
-            {" "}
+    <div className="bg-white py-16">
+      <div className="container mx-auto px-4 md:px-8">
+        {/* Social media sidebar */}
+ 
+
+        <div className="text-center mb-12">
+          <h2 className="text-red-500 uppercase tracking-wide font-semibold mb-2">ABOUT Gyan Counsaltancy</h2>
+        </div>
+
+        <div className="flex flex-col lg:flex-row items-center gap-8">
+          <div className="w-full lg:w-1/2">
+            <h2 className="text-3xl font-bold mb-6 text-gray-900">
+              Publish Your Articles Faster with Our Expert Services
+            </h2>
+            <p className="text-gray-700 leading-relaxed mb-6">
+              Gyan Counsaltancy Services stands as the premier choice for publishing and consultation services,
+              specializing in scholarly articles for prestigious research databases like SCOPUS, Web of Science, PubMed,
+              and Google Scholar. Our dedicated team expedites the publication process, ensuring your articles receive
+              the quality and recognition they deserve in top-tier indexing journals.
+            </p>
             <a
-  href="https://wa.me/7906767266?text=Hello! I would like to learn more about your services."
-  className="btn " //btn-custom btn-lg page-scroll
-  target="_blank"
-  rel="noopener noreferrer"
->
-<img src="img/service/12.jpg" className="img-responsive" alt="" />{" "}
-</a>
-           
+              href="#"
+              className="inline-block bg-amber-500 text-white px-8 py-3 rounded font-medium hover:bg-amber-600 transition"
+            >
+              Read More
+            </a>
           </div>
-          <div className="col-xs-12 col-md-6">
-            <div className="about-text">
-              <h2>About Us</h2>
-              <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              <h3>Why Choose Us?</h3>
-              <div className="list-style">
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-              </div>
+          <div className="w-full lg:w-1/2">
+            <div className="border border-gray-200 rounded-lg p-4 shadow-lg">
+              <img src={BookImage} alt="Astronaut on a book" className="w-full h-auto rounded" />
             </div>
           </div>
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
+
+export default About
