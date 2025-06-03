@@ -1,33 +1,61 @@
 import { FileText, Book, Star } from "lucide-react"
 
 const ServicesSection = () => {
-  const services = [
+
+   const services = [
     {
       id: 1,
       title: "RESEARCH PUBLICATION",
       icon: <FileText className="h-10 w-10 text-amber-500" />,
       description:
-        "STR-Publication offers a comprehensive range of publication and consultation services for articles indexed in top-tier databases such as Scopus",
+        "Gyan Counsaltancy offers a comprehensive range of publication and consultation services for articles indexed in top‐tier databases such as Scopus.",
       iconBgColor: "bg-amber-50",
       iconBorderColor: "border-amber-500",
     },
     {
       id: 2,
-      title: "BOOK PUBLICATION",
+      title: "CONTENT WRITING",
       icon: <Book className="h-10 w-10 text-green-500" />,
       description:
-        "At STR Publication, we offer a diverse range of Book Publication services tailored to meet the needs of authors across various genres and",
+        "Our Content Writing service covers everything from thesis/paper writing to blog posts and corporate collateral—tailored to your exact requirements.",
       iconBgColor: "bg-green-50",
       iconBorderColor: "border-green-500",
     },
     {
       id: 3,
-      title: "ARTICLE/BOOK-WRITING",
+      title: "PATENT",
       icon: <Star className="h-10 w-10 text-amber-500" />,
       description:
-        "We offer comprehensive ghostwriting services, ensuring that the ghostwriter's name does not appear in the list of article authors.",
+        "We guide inventors through every step of the patent process—prior‐art search, drafting specifications, filing and follow‐up with patent offices.",
       iconBgColor: "bg-amber-50",
       iconBorderColor: "border-amber-500",
+    },
+    {
+      id: 4,
+      title: "WEBSITE & APP DEVELOPMENT",
+      icon: <FileText className="h-10 w-10 text-green-500" />,
+      description:
+        "From static websites to full‐stack mobile apps, our developers build responsive, SEO‐friendly, and high‐performance solutions on time and on budget.",
+      iconBgColor: "bg-green-50",
+      iconBorderColor: "border-green-500",
+    },
+    {
+      id: 5,
+      title: "ACADEMIC PROJECT",
+      icon: <Book className="h-10 w-10 text-amber-500" />,
+      description:
+        "Whether it’s engineering, management or science, we provide end‐to‐end support: topic selection, literature review, implementation, and final documentation.",
+      iconBgColor: "bg-amber-50",
+      iconBorderColor: "border-amber-500",
+    },
+    {
+      id: 6,
+      title: "PUBLICATION SUPPORT",
+      icon: <Star className="h-10 w-10 text-green-500" />,
+      description:
+        "Need help with journal selection, formatting, peer‐review submission or post‐acceptance services? We’re your one‐stop team for every step toward publication.",
+      iconBgColor: "bg-green-50",
+      iconBorderColor: "border-green-500",
     },
   ]
 

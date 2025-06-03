@@ -20,9 +20,9 @@ const JournalsSection = () => {
           <h2 className="text-3xl font-bold text-gray-800 mb-4">
             Explore the wide array of journals available for your publication
           </h2>
-          <div className="flex items-center justify-center mb-2">
+          {/* <div className="flex items-center justify-center mb-2">
             <span className="mx-4 text-xl font-medium text-amber-500">Guaranteed Acceptance</span>
-          </div>
+          </div> */}
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">

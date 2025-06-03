@@ -6,11 +6,11 @@ const TopHeader = () => {
       <div className="flex items-center space-x-4 text-sm md:text-base">
         <div className="flex items-center">
           <Mail className="h-4 w-4 mr-1" />
-          <span>strpublication@gmail.com</span>
+          <span>youreducation88@gmail.com</span>
         </div>
         <div className="flex items-center">
           <Phone className="h-4 w-4 mr-1" />
-          <span>+91 9351916190</span>
+          <span>+91 7906767266</span>
         </div>
       </div>
       <div className="hidden md:flex space-x-4 text-sm">

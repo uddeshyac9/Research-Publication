@@ -24,22 +24,25 @@ const Navigation = () => {
   }
 
   const servicesItems = [
-    { name: "Research Publication", link: "#" },
-    { name: "Article/Thesis Writing", link: "#" },
-    { name: "All Services", link: "#" },
+    { name: "Content writing", link: "/content" },
+    { name: "Patent", link: "/patent" },
+    { name: "Website & App Development", link: "/web-agency" },
+    { name: "Book Writing Support", link: "/content" },
+    { name: "Acadmic Project", link: "/academic" },
+    { name: "Publication Support", link: "/publication" },
+
   ]
 
   const journalsItems = [
-    { name: "Science Journals", link: "#" },
-    { name: "Medical Journals", link: "#" },
-    { name: "Engineering Journals", link: "#" },
-    { name: "All Journals", link: "#" },
+    { name: "Thesis/Paper Writing", link: "/content" },
+    { name: "Book Writing", link: "/content" },
+  
   ]
 
   return (
     <div className="container mx-auto flex justify-between items-center py-4 px-4 md:px-8">
       <div className="flex-shrink-0">
-        <img src={logo} alt="Gyan Counsaltancy Logo" className="h-14 w-auto" />
+        <a href="/"><img src={logo} alt="Gyan Counsaltancy Logo" className="h-14 w-auto" /></a>
       </div>
 
       {/* Desktop Navigation */}
@@ -82,7 +85,7 @@ const Navigation = () => {
             onMouseEnter={() => setActiveDropdown("journals")}
             onMouseLeave={() => setActiveDropdown(null)}
           >
-            <span>Journals and Publications</span>
+            <span>Content writing</span>
             <ChevronDown
               className={`h-4 w-4 transition-transform ${activeDropdown === "journals" ? "rotate-180" : ""}`}
             />
@@ -106,18 +109,28 @@ const Navigation = () => {
           </div>
         </div>
 
-        <a href="#" className="font-medium">
-          Book Publication
+        <a href="/patent" className="font-medium">
+          Patent
         </a>
-        <a href="#" className="font-medium">
-          Conference
+        <a href="/web-agency" className="font-medium">
+          Website & App Development
         </a>
-        <a href="#" className="bg-gray-600 text-white px-6 py-2 rounded hover:bg-gray-700 transition">
-          Enquiry
+        <a href="/academic" className="font-medium">
+          Acadmic Project
         </a>
-        <a href="#" className="bg-amber-500 text-white px-6 py-2 rounded hover:bg-amber-600 transition">
-          Submit article
+        <a href="/publication" className="font-medium">
+          Publication Support
         </a>
+       
+        <a
+  href="https://wa.me/917906767266"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-amber-500 text-white px-6 py-2 rounded hover:bg-amber-600 transition"
+>
+  Enquiry
+</a>
+
       </nav>
 
       {/* Mobile Menu Button */}
@@ -133,9 +146,9 @@ const Navigation = () => {
       >
         <div className="flex flex-col h-full pt-20 px-6 pb-6 overflow-y-auto">
           <div className="space-y-4">
-            <div className="border-b pb-2">
+            <div className="border-b pb-2 ">
               <button
-                className="flex items-center justify-between w-full py-2 font-medium"
+                className="flex items-center justify-between w-full py-2 font-medium "
                 onClick={() => toggleDropdown("services")}
               >
                 <span>Services</span>
@@ -163,7 +176,7 @@ const Navigation = () => {
                 className="flex items-center justify-between w-full py-2 font-medium"
                 onClick={() => toggleDropdown("journals")}
               >
-                <span>Journals and Publications</span>
+                <span>Content writing</span>
                 <ChevronDown
                   className={`h-4 w-4 transition-transform ${activeDropdown === "journals" ? "rotate-180" : ""}`}
                 />
@@ -183,29 +196,29 @@ const Navigation = () => {
               </div>
             </div>
 
-            <a href="#" className="block py-2 border-b font-medium">
-              Book Publication
+            <a href="/patent" className="block py-2 border-b font-medium">
+              Patent
             </a>
-            <a href="#" className="block py-2 border-b font-medium">
-              Conference
+            <a href="/web-agency" className="block py-2 border-b font-medium">
+            Website & App Development
             </a>
-            <a href="#" className="block py-2 border-b font-medium">
-              About
+            <a href="/academic" className="block py-2 border-b font-medium">
+            Acadmic Project 
+            </a>
+             <a href="/publication" className="block py-2 border-b font-medium">
+            Publication Support
             </a>
             <div className="pt-4 space-y-3">
-              <a
-                href="#"
-                className="block w-full bg-gray-600 text-white px-6 py-3 rounded text-center hover:bg-gray-700 transition"
-              >
-                Enquiry
-              </a>
-              <a
-                href="#"
-                className="block w-full bg-amber-500 text-white px-6 py-3 rounded text-center hover:bg-amber-600 transition"
-              >
-                Submit article
-              </a>
-            </div>
+  <a
+    href="https://wa.me/917906767266"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="block w-full bg-amber-500 text-white px-6 py-3 rounded text-center hover:bg-amber-600 transition"
+  >
+    Enquiry
+  </a>
+</div>
+
           </div>
         </div>
       </div>

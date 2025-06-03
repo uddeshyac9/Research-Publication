@@ -19,7 +19,7 @@ const ReasonsSection = () => {
           <div className="w-full lg:w-1/2 relative">
             <div className="relative">
               <div className="absolute -z-10 w-[500px] h-[500px] rounded-full bg-amber-500 left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2"></div>
-              <img src="/student.png" alt="Student with publication materials" className="relative z-10 mx-auto" />
+              <img src="https://images.unsplash.com/photo-1592188657297-c6473609e988?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Student with publication materials" className="relative z-10 mx-auto  w-[450px] h-[450px]" />
               <div className="absolute top-10 left-0 bg-white rounded-lg px-4 py-2 shadow-lg flex items-center z-20 border-2 border-amber-800">
                 <span className="text-amber-800 font-medium flex items-center gap-2">
                   <svg
