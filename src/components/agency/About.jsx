@@ -19,7 +19,7 @@ const About = () => {
         </h3>
         <h2 className="text-5xl font-bold tracking-light capitalize font-rowdies">
           Why you should choose{" "}
-          <span className="text-teal-400">Gyan Counsaltancy</span>
+          <span className="text-teal-400">Gyaan Counsaltancy</span>
         </h2>
         <p className="text-lg tracking-normal">
           We are a digital agency that specializes in web design, SEO, social

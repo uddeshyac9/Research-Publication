@@ -3,7 +3,7 @@ export const servicesList = [
     id: 1,
     title: "Web Development",
     description:
-      "At Gyan Counsaltancy, we deliver custom web development solutions that scale with your business. From responsive front‐end interfaces to robust back‐end architectures, our team ensures fast, secure, and SEO‐friendly websites.",
+      "At Gyaan Counsaltancy, we deliver custom web development solutions that scale with your business. From responsive front‐end interfaces to robust back‐end architectures, our team ensures fast, secure, and SEO‐friendly websites.",
     keyFeatures: [
       "Responsive, Mobile-First Design",
       "SEO‐Optimized Code",
@@ -12,7 +12,7 @@ export const servicesList = [
       "Cross‐Browser Compatibility",
     ],
     process: [
-      "Consultation with Gyan Counsaltancy",
+      "Consultation with Gyaan Counsaltancy",
       "Requirements Gathering & Planning",
       "Wireframing & UI/UX Alignment",
       "Front‐end & Back‐end Development",
@@ -23,7 +23,7 @@ export const servicesList = [
       {
         client: "Client A",
         feedback:
-          "Gyan Counsaltancy’s web development team transformed our legacy site into a modern, high‐performing platform—our traffic doubled within weeks.",
+          "Gyaan Counsaltancy’s web development team transformed our legacy site into a modern, high‐performing platform—our traffic doubled within weeks.",
       },
       {
         client: "Client B",
@@ -36,7 +36,7 @@ export const servicesList = [
     id: 2,
     title: "App Development",
     description:
-      "Gyan Counsaltancy specializes in building feature‐rich mobile applications for both iOS and Android. We use React Native and Flutter to deliver scalable, maintainable, and cross‐platform apps that engage users and drive conversions.",
+      "Gyaan Counsaltancy specializes in building feature‐rich mobile applications for both iOS and Android. We use React Native and Flutter to deliver scalable, maintainable, and cross‐platform apps that engage users and drive conversions.",
     keyFeatures: [
       "Cross‐Platform (iOS & Android)",
       "Native Performance & Caching",
@@ -46,7 +46,7 @@ export const servicesList = [
     ],
     process: [
       "Initial Consultation & Wireframing",
-      "UI/UX Prototyping with Gyan Counsaltancy",
+      "UI/UX Prototyping with Gyaan Counsaltancy",
       "Front‐end & Back‐end Development",
       "API & Database Setup",
       "Beta Testing & Bug Fixes",
@@ -56,7 +56,7 @@ export const servicesList = [
       {
         client: "Client C",
         feedback:
-          "Our hybrid app launch was seamless—thanks to Gyan Counsaltancy’s attention to detail and clear communication throughout the project.",
+          "Our hybrid app launch was seamless—thanks to Gyaan Counsaltancy’s attention to detail and clear communication throughout the project.",
       },
       {
         client: "Client D",
@@ -69,7 +69,7 @@ export const servicesList = [
     id: 3,
     title: "Digital Marketing",
     description:
-      "Gyan Counsaltancy’s Digital Marketing services help you connect with your target audience and grow your brand online. From social media campaigns to paid search and email marketing, we create data‐driven strategies that deliver measurable ROI.",
+      "Gyaan Counsaltancy’s Digital Marketing services help you connect with your target audience and grow your brand online. From social media campaigns to paid search and email marketing, we create data‐driven strategies that deliver measurable ROI.",
     keyFeatures: [
       "Social Media Management & Advertising",
       "Search Engine Optimization (SEO)",
@@ -78,7 +78,7 @@ export const servicesList = [
       "Analytics, Reporting & Optimization",
     ],
     process: [
-      "Consultation & Goal Setting with Gyan Counsaltancy",
+      "Consultation & Goal Setting with Gyaan Counsaltancy",
       "Market Research & Strategy Development",
       "Campaign Creation & Creative Assets",
       "Multi‐Channel Execution & Monitoring",
@@ -89,7 +89,7 @@ export const servicesList = [
       {
         client: "Client E",
         feedback:
-          "Our online lead generation skyrocketed after partnering with Gyan Counsaltancy—they know exactly how to target and convert.",
+          "Our online lead generation skyrocketed after partnering with Gyaan Counsaltancy—they know exactly how to target and convert.",
       },
       {
         client: "Client F",
@@ -102,7 +102,7 @@ export const servicesList = [
     id: 4,
     title: "UI/UX Design",
     description:
-      "Gyan Counsaltancy’s design team creates intuitive user interfaces and engaging experiences. We focus on user research, wireframes, and high‐fidelity prototypes to ensure every product is both beautiful and easy to use.",
+      "Gyaan Counsaltancy’s design team creates intuitive user interfaces and engaging experiences. We focus on user research, wireframes, and high‐fidelity prototypes to ensure every product is both beautiful and easy to use.",
     keyFeatures: [
       "User Research & Persona Development",
       "Wireframing & Interactive Prototyping",
@@ -113,7 +113,7 @@ export const servicesList = [
     process: [
       "Stakeholder Interviews & User Research",
       "Low-Fidelity Wireframes & Flowcharts",
-      "High-Fidelity Mockups with Gyan Counsaltancy",
+      "High-Fidelity Mockups with Gyaan Counsaltancy",
       "Interactive Prototyping & User Testing",
       "Iteration & Final Design Delivery",
       "Design QA During Development",
@@ -122,7 +122,7 @@ export const servicesList = [
       {
         client: "Client G",
         feedback:
-          "Gyan Counsaltancy’s UI/UX team helped us identify user pain points early—our conversion rates improved by 40%.",
+          "Gyaan Counsaltancy’s UI/UX team helped us identify user pain points early—our conversion rates improved by 40%.",
       },
       {
         client: "Client H",
@@ -135,7 +135,7 @@ export const servicesList = [
     id: 5,
     title: "Maintenance & Support",
     description:
-      "After launch, Gyan Counsaltancy continues to support your website and apps with ongoing maintenance, updates, and performance monitoring. We ensure your digital products stay secure, fast, and up-to-date.",
+      "After launch, Gyaan Counsaltancy continues to support your website and apps with ongoing maintenance, updates, and performance monitoring. We ensure your digital products stay secure, fast, and up-to-date.",
     keyFeatures: [
       "24/7 Monitoring & Security Patches",
       "Regular Performance Audits",
@@ -155,7 +155,7 @@ export const servicesList = [
       {
         client: "Client I",
         feedback:
-          "Knowing Gyan Counsaltancy handles all updates and security means we can focus on growing our business without worry.",
+          "Knowing Gyaan Counsaltancy handles all updates and security means we can focus on growing our business without worry.",
       },
       {
         client: "Client J",

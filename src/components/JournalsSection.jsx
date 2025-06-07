@@ -1,16 +1,25 @@
 // File: components/JournalsSection.jsx
-import { Award, Search, Globe, Settings, BookOpen, FileText, CheckSquare, Calendar } from "lucide-react"
+import {
+  ThumbsUp,
+  Clock,
+  Lightbulb,
+  ShieldCheck,
+  Target,
+  Star,
+ Headphones,
+  TrendingUp
+} from "lucide-react"
 
 const JournalsSection = () => {
   const journals = [
-    { id: 1, name: "Top-tier Journals",       icon: <Award className="h-5 w-5" /> },
-    { id: 2, name: "Scopus Indexed",          icon: <Search className="h-5 w-5" /> },
-    { id: 3, name: "Web of Science",          icon: <Globe className="h-5 w-5" /> },
-    { id: 4, name: "Engineering Index",       icon: <Settings className="h-5 w-5" /> },
-    { id: 5, name: "Google Scholar",          icon: <BookOpen className="h-5 w-5" /> },
-    { id: 6, name: "ABDC Indexed",            icon: <FileText className="h-5 w-5" /> },
-    { id: 7, name: "UGC Listed Journals",     icon: <CheckSquare className="h-5 w-5" /> },
-    { id: 8, name: "Backdate Journals",       icon: <Calendar className="h-5 w-5" /> },
+    { id: 1, name: "Trustworthy & Transparent",     icon: <ShieldCheck className="h-5 w-5" /> },
+    { id: 2, name: "On-Time Delivery",              icon: <Clock className="h-5 w-5" /> },
+    { id: 3, name: "Innovative Approach",           icon: <Lightbulb className="h-5 w-5" /> },
+    { id: 4, name: "Quality-First Process",         icon: <Star className="h-5 w-5" /> },
+    { id: 5, name: "Research-Oriented",             icon: <Target className="h-5 w-5" /> },
+    { id: 6, name: "Futuristic Approch",         icon: <ThumbsUp className="h-5 w-5" /> },
+    { id: 8, name: "Personalized Support",     icon: <Headphones className="h-5 w-5" /> },
+    { id: 8, name: "Guaranteed Growth",             icon: <TrendingUp className="h-5 w-5" /> },
   ]
 
   return (
@@ -18,11 +27,8 @@ const JournalsSection = () => {
       <div className="container mx-auto px-4 md:px-8">
         <div className="text-center mb-8">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">
-            Explore the wide array of journals available for your publication
+                Why Choose Gyaan Consultancy for Your Growth & Innovation?
           </h2>
-          {/* <div className="flex items-center justify-center mb-2">
-            <span className="mx-4 text-xl font-medium text-amber-500">Guaranteed Acceptance</span>
-          </div> */}
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">

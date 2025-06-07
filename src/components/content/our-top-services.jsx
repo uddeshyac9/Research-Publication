@@ -1,10 +1,10 @@
 export default function OurTopServices() {
   const services = [
-    {
-      title: "Thesis Writing:",
-      description:
-        "Aimlay provides comprehensive support for writing. This includes assistance with topic selection, literature review, methodology, data analysis, discussion, and conclusion sections.",
-    },
+  {
+  title: "Thesis & Book Writing Support",
+  description:
+    "Gyaan Consultancy offers expert assistance for both thesis and book writing, covering everything from topic selection, literature review, and research methodology to drafting, editing, formatting, and final submission. Ideal for researchers, scholars, and academic authors.",
+},
     {
       title: "Research Paper:",
       description:

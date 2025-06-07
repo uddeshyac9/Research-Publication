@@ -10,7 +10,7 @@ export default function Footer() {
             {/* STR Insights Column */}
             <div className="space-y-4">
               <h3 className="text-lg font-semibold text-gray-900 border-b-2 border-orange-400 pb-2 inline-block">
-                Gyan Insights
+                Gyaan Insights
               </h3>
               <nav className="space-y-3">
                 <a href="#" className="block text-gray-700 hover:text-gray-900 transition-colors">
@@ -86,8 +86,8 @@ export default function Footer() {
                 <div>
                   <span className="font-medium">Email :-</span>
                   <div className="mt-1">
-                    <a href="mailto:info@gyanpublication.com" className="hover:text-gray-900 transition-colors">
-                      info@gyanpublication.com
+                    <a href="mailto:info@Gyaanpublication.com" className="hover:text-gray-900 transition-colors">
+                      info@Gyaanpublication.com
                     </a>
                     <span>,</span>
                   </div>
@@ -149,7 +149,7 @@ export default function Footer() {
       {/* Bottom Footer Section */}
       <div className="bg-gray-800 py-4 px-4 md:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
-          <p className="text-white text-sm">Copyright © 2025 Gyan Counsaltancy</p>
+          <p className="text-white text-sm">Copyright © 2025 Gyaan Counsaltancy</p>
           <div className="flex space-x-6">
             <a href="#" className="text-white hover:text-gray-300 transition-colors text-sm">
               Privacy Policy

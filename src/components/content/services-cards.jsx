@@ -28,11 +28,11 @@ export default function ServicesCards() {
     },
     {
       icon: Calendar,
-      title: "Access to Conferences",
+      title: "Turnitin Report",
     },
     {
       icon: BookOpen,
-      title: "Printing & Binding",
+      title: "AI Free Content",
     },
   ]
 

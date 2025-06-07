@@ -47,7 +47,7 @@ export default function SimpleFourSteps() {
 
         {/* Bottom CTA */}
         <div className="text-center">
-          <h3 className="text-xl md:text-2xl font-bold text-gray-900">Get Your PATENT within 48 hours</h3>
+          <h3 className="text-xl md:text-2xl font-bold text-gray-900">Get Your PATENT Filing within 48 hours</h3>
         </div>
       </div>
     </section>

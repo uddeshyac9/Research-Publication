@@ -11,21 +11,21 @@ const testimonials = [
     occupation: "Chief Executive Officer",
     image: avatar1,
     content:
-      "Gyan Counsaltancy has been our partner for web development and digital marketing over the past three years. Their team delivered a responsive website that boosted our online traffic, and their SEO strategy increased our lead generation by 50%. I highly recommend Gyan Counsaltancy to anyone seeking top-notch digital solutions.",
+      "Gyaan Counsaltancy has been our partner for web development and digital marketing over the past three years. Their team delivered a responsive website that boosted our online traffic, and their SEO strategy increased our lead generation by 50%. I highly recommend Gyaan Counsaltancy to anyone seeking top-notch digital solutions.",
   },
   {
     name: "Jane Smith",
     occupation: "Sales Manager",
     image: avatar2,
     content:
-      "We engaged Gyan Counsaltancy for a cross-platform mobile app and UI/UX redesign. Their app development team nailed every feature, and the new interface greatly improved our user engagement. Their ongoing maintenance and support have been exceptional.",
+      "We engaged Gyaan Counsaltancy for a cross-platform mobile app and UI/UX redesign. Their app development team nailed every feature, and the new interface greatly improved our user engagement. Their ongoing maintenance and support have been exceptional.",
   },
   {
     name: "Mark Johnson",
     occupation: "Product Manager",
     image: avatar3,
     content:
-      "Gyan Counsaltancy’s digital marketing services transformed our outreach efforts. Their social media campaigns and PPC ads drove a 40% increase in conversions. Plus, their UI/UX design expertise gave our platform a modern, intuitive look. Couldn’t be happier with the results.",
+      "Gyaan Counsaltancy’s digital marketing services transformed our outreach efforts. Their social media campaigns and PPC ads drove a 40% increase in conversions. Plus, their UI/UX design expertise gave our platform a modern, intuitive look. Couldn’t be happier with the results.",
   },
 ];
 
@@ -44,7 +44,7 @@ const Testimonials = () => {
         </div>
         <div className="flex flex-col gap-4 px-8">
           <p className="text-xl tracking-normal">
-            At Gyan Counsaltancy, we pride ourselves on delivering exceptional
+            At Gyaan Counsaltancy, we pride ourselves on delivering exceptional
             web development, app development, digital marketing, and UI/UX
             design. For over a decade, our commitment to quality, attention to
             detail, and innovative solutions have earned us satisfied clients.

@@ -13,7 +13,7 @@ const Hero = () => {
               <p className="font-thin text-gray-400">Established</p>
               <p className="font-bold">Since 2020</p>
             </span>{" "}
-            Gyan Agency.
+            Gyaan Agency.
           </div>
         </h1>
       </div>
