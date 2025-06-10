@@ -42,7 +42,7 @@ const Navigation = () => {
   return (
     <div className="container mx-auto flex justify-between items-center py-4 px-4 md:px-8">
       <div className="flex-shrink-0">
-        <a href="/"><img src={logo} alt="Gyaan Counsaltancy Logo" className="h-14 w-auto" /></a>
+        <a href="/"><img src={logo} alt="Gyaan Consultancy Logo" className="h-14 w-auto" /></a>
       </div>
 
       {/* Desktop Navigation */}

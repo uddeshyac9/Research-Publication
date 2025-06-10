@@ -8,7 +8,7 @@ const About = () => {
  
 
         <div className="text-center mb-12">
-          <h2 className="text-red-500 uppercase tracking-wide font-semibold mb-2">ABOUT Gyaan Counsaltancy</h2>
+          <h2 className="text-red-500 uppercase tracking-wide font-semibold mb-2">ABOUT Gyaan Consultancy</h2>
         </div>
 
         <div className="flex flex-col lg:flex-row items-center gap-8">

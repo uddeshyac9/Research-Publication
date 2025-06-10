@@ -13,10 +13,10 @@ const Home = () => {
           {/* Content */}
          <div className="w-full lg:w-1/2 lg:pr-12 mb-8 lg:mb-0">
   <div className="text-amber-500 uppercase tracking-wide font-semibold mb-2">
-    Gyaan Counsaltancy
+    Gyaan Consultancy
   </div>
   <h1 className="text-4xl font-bold mb-6 text-gray-900">
-    Gyaan Counsaltancy Services
+    Gyaan Consultancy Services
   </h1>
   <ol className="list-decimal list-inside text-gray-700 leading-relaxed mb-6 space-y-3">
     <li>
@@ -36,7 +36,7 @@ const Home = () => {
     </li>
   </ol>
   <p className="text-gray-700 leading-relaxed mb-8">
-    At Gyaan Counsaltancy, we bridge research, technology, and innovation to help you grow and stand out.
+    At Gyaan Consultancy, we bridge research, technology, and innovation to help you grow and stand out.
   </p>
   <div className="flex flex-col sm:flex-row gap-4">
     <a

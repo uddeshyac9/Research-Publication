@@ -85,7 +85,7 @@ export default function Footer() {
               <div className="space-y-3 text-gray-700">
                 <div>
                   <span className="font-medium">Email :-</span>
-                  <div className="mt-1">
+                  {/* <div className="mt-1">
                     <a href="mailto:info@Gyaanpublication.com" className="hover:text-gray-900 transition-colors">
                       info@Gyaanpublication.com
                     </a>
@@ -96,7 +96,7 @@ export default function Footer() {
                       youreducation88@gmail.com
                     </a>
                     <span>,</span>
-                  </div>
+                  </div> */}
                   <div>
                     <a href="mailto:youreducation88gmail.comcom" className="hover:text-gray-900 transition-colors">
                       youreducation88@gmail.com
@@ -104,9 +104,9 @@ export default function Footer() {
                   </div>
                 </div>
 
-                <div>
+                {/* <div>
                   <span className="font-medium">Location:-</span> India
-                </div>
+                </div> */}
 
                 <div>
                   <span className="font-medium">Phone No:-</span>
@@ -149,7 +149,7 @@ export default function Footer() {
       {/* Bottom Footer Section */}
       <div className="bg-gray-800 py-4 px-4 md:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0">
-          <p className="text-white text-sm">Copyright © 2025 Gyaan Counsaltancy</p>
+          <p className="text-white text-sm">Copyright © 2025 Gyaan Consultancy</p>
           <div className="flex space-x-6">
             <a href="#" className="text-white hover:text-gray-300 transition-colors text-sm">
               Privacy Policy
