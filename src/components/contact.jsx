@@ -153,9 +153,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
         <p>
-  &copy; 2024 Shiksha Salah House. Designed and developed by{" "}
-  <a href="#" rel="nofollow">
-    Shiksha Salah House Team
+  &copy; 2025 Gyaan Consultancy. Designed and developed by{" "}
+  <a href="https://gyaanconsultancy.in/" rel="nofollow">
+    Gyaan Consultancy Team
   </a>
 </p>
 
